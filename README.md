@@ -1,5 +1,3 @@
 # hi i am shiroi
 
-# i love the .md format
-
-### piss
+my actual github account is ShiroiKegawa32
